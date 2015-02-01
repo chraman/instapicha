@@ -1,2 +1,2 @@
-# instapicha
+# HashPitcha
 get images done
